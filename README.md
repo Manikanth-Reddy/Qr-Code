@@ -2,9 +2,9 @@
 
 
 
-Welcome to QRCodeGenius on [Manikanth Reddy's Java Junction]([https://your-github-page-url-here](https://github.com/Manikanth-Reddy))!
+Welcome to QRCodeGenerator on [Manikanth Reddy's Java Junction]([https://your-github-page-url-here](https://github.com/Manikanth-Reddy))!
 
-QRCodeGenius is a dynamic Spring Boot project that simplifies the process of generating QR code images for provided text or URLs. With this application, you can quickly create QR codes for sharing information, enhancing user experiences, and more.
+QRCodeGenerator is a dynamic Spring Boot project that simplifies the process of generating QR code images for provided text or URLs. With this application, you can quickly create QR codes for sharing information, enhancing user experiences, and more.
 
 ## Features
 
